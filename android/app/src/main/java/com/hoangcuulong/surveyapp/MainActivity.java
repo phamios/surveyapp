@@ -1,4 +1,4 @@
-package com.example.survey_app;
+package com.hoangcuulong.surveyapp;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
